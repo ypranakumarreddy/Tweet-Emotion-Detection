@@ -14,7 +14,7 @@ This project explores the evolution of tweet emotion detection using various dee
 - **HW7**: Parameter-Efficient Fine-Tuning (PEFT) using LoRA & BitsAndBytes
 - **HW8**: Prompt-Based Fine-Tuning with PEFT (Meta LLaMA-3.2-1B-Instruct)
 
-> 🚀 **Final Model**: `Meta LLaMA-3.2-1B-Instruct` with PEFT + Prompt-Based Tuning  
+> 🚀 **Final Model**: Meta LLaMA-3.2-1B-Instruct with PEFT + Prompt-Based Tuning  
 > 🎯 **Accuracy**: 51.58% in detecting *optimism*
 
 ---
