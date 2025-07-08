@@ -31,6 +31,7 @@ This project explores the evolution of tweet emotion detection using various dee
 
 Ensure you have Python 3.8+ installed, then install required dependencies:
 
+pip install torch transformers peft datasets accelerate wand
 
 ## 📂 Project Structure
 
